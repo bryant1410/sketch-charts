@@ -3,11 +3,11 @@
 
 **Disclaimer** - This is a WIP version of the plugin. 
 
-##Installation.
+## Installation.
 1. [Download the plugin files](https://raw.githubusercontent.com/saleiva/sketch-charts/master/Barchart/Generate%20Barchart.sketchplugin)
 2. Double-click the '.sketchplugin' file you want to install. Sketch should open automatically and tell you that a new plugin was installed.
 
-##Usage
+## Usage
 
 #### Barcharts.
 
